@@ -1,1 +1,7 @@
-{ num : 2 ,  msgs : \nThis app is FREE and does NOT cost any money!\nIf you paid for it, you have been scammed!\n\nDo NOT buy it again, when an UPDATE is available you will get a message automatically.\nNo need to buy it\n }
+{"version_code":999999999,"msgs":"
+<p>قم ببالدخول للانضمام لمجموعتنا علي الواتساب</p>
+<p> ⇒⇒ BEKO OadAlBragna ⇐⇐ </p>
+
+ ","url":"https://chat.whatsapp.com/BCDJxcoAzkEGzMSrv2YTYk"
+
+} 
